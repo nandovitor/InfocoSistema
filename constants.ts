@@ -50,7 +50,7 @@ export const DEFAULT_EMPLOYEES: Employee[] = [
     },
     {
         id: 4,
-        name: 'Ana Costa',
+        name: 'Ana Minha Filha',
         position: 'Analista Financeiro',
         department: 'Financeiro',
         email: 'ana.costa@infoco.com',
@@ -58,7 +58,7 @@ export const DEFAULT_EMPLOYEES: Employee[] = [
     },
      {
         id: 5,
-        name: 'Carlos Silva',
+        name: 'Maria filha de Uilber',
         position: 'Advogado',
         department: 'Jurídico',
         email: 'carlos.silva@infoco.com',
